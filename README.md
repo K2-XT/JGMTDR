@@ -1,6 +1,8 @@
 # JGMTDR
 
 Original Project Date: November 2020
+Target iOS: 13.6
+Xcode Version 11
 
 This is recipe app that is meant to get straight to the point and display the recipes you want to find. I originally came up with the idea for another class I had at the time, mobile app development. In mobile app development we had to create a simple server and website that used javascript and interacted with our server. I took the server and simple database that I made for that website and copied it over here, then made this app as my final iOS development project.
 
