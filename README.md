@@ -11,5 +11,3 @@ JGMTDR (short for "Just Give Me The Damn Recipe") is recipe app that is meant to
 I've got to say that I actually really enjoy iOS development. While I do think that it is a bit easier to interact with API's in Android and companion libraries, I don't think nothing is quite as effective at helping you make clean, beautiful apps as Apple's Swift and Xcode interfaces. This app demonstrates my ability to use Swift to make simple apps that can still be presentable and clean to a user. It also shows that I can work with an API using Swift, and that I do have knowledge within iOS development.
 
 ![alt text](https://github.com/K2-XT/JGMTDR/blob/main/Screenshots/Screen%20Shot%202021-04-29%20at%2010.34.49%20AM.png?raw=true)
-
-![alt text](https://github.com/K2-XT/JGMTDR/blob/main/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202021-04-29%20at%2010.31.15.png?raw=true)
